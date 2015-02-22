@@ -51,7 +51,7 @@ Scope of the script:
 Summarizing the mean and standard deviation (std) measurements per subject per activity by using the input dataset mentioned above.
 
 =========================================================================================================================
-Prerequisites=:Make sure the dplyr package is installed.
+Prerequisites:Make sure the dplyr package is installed.
 
 =========================================================================================================================
 Step by step details on what the script does:
@@ -86,7 +86,7 @@ Step by step details on what the script does:
 
 - The average of each variable is calculated for each subject and each activity.
 
-- The final tidy dataset is formatted and written into a file called "tidy_data.txt".
+- The final tidy dataset is formatted and written into a file called "tidy_data.txt". Please refer CodeBook.md file for the column descriptions of the tidy data set.
 
 =========================================================================================================================
 Location of the input and output files:
