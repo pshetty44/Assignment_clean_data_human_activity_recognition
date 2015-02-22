@@ -44,6 +44,7 @@ The follwing raw datasets are used by the script.
 Please note that the test and the train datasets also includes the inertial signals data sets.  It includes 3 signals each on
 X, Y and Z axis.
 We dont use this data directly in the script.
+
 =========================================================================================================================
 Scope of the script:
 
