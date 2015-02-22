@@ -41,7 +41,8 @@ The follwing raw datasets are used by the script.
 - 'test/subject_test.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
 
-Please note that the test and the train datasets also includes the inertial signals data sets.  It includes 3 signals each on X, Y and Z axis.
+Please note that the test and the train datasets also includes the inertial signals data sets.  It includes 3 signals each on
+X, Y and Z axis.
 We dont use this data directly in the script.
 =========================================================================================================================
 Scope of the script:
