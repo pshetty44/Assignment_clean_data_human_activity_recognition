@@ -93,7 +93,7 @@ Location of the input and output files:
 
 Please copy the run_analysis.R in your working directory.
 
-The script will work under the assumption that the folder "UCI HAR Dataset" is present in your working directory. 
+The script will work under the assumption that the folder "UCI HAR Dataset" is present in your working directory( Your current directory set in R). 
 Inside the "UCI HAR Dataset" folder, there needs to be 2 subfolders called test and train that contains the respective test and the training
 input files. The features.txt and the activity_labels.txt should be present inside "UCI HAR Dataset" folder.
  
