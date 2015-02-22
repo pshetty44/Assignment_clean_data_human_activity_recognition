@@ -1,5 +1,7 @@
 				DATA DICTIONARY - Human Activity Recognition Using Smartphones Dataset
 
+				Code book for the tidy data set tidy_data.txt
+
 1 subjectID 
   - Datatype: Integer
   - Numbers assigned to the subject who participated in the experiment. Numbers range from 1 to 30.
@@ -18,7 +20,7 @@
 
 3 tBodyAcc.mean.X
   - Datatype:numeric
-  Mean of the time domain body acceleration signal on the X axial.
+  - Mean of the time domain body acceleration signal on the X axial.
   
 4 tBodyAcc.mean.Y
   - Datatype:numeric
